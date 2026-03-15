@@ -1,0 +1,27 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Textus",
+    "description": "",
+    "home_page_url": "https://antonio-vigilante.github.io/textus",
+    "feed_url": "https://antonio-vigilante.github.io/textus/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "Antonio Vigilante"
+    },
+    "items": [
+        {
+            "id": "https://antonio-vigilante.github.io/textus/_cover-2.html",
+            "url": "https://antonio-vigilante.github.io/textus/_cover-2.html",
+            "title": "Manuale pratico di didattica digitale della filosofia",
+            "summary": "Textus è una manuale pratico di didattica digitale della filosofia scritto da Antonio Vigilante. Nasce nell'ambito delle attività della cattedra di Esercitazioni di didattica della&hellip;",
+            "content_html": "<figure class=\"post__image\"><img loading=\"lazy\"  src=\"https://antonio-vigilante.github.io/textus/media/posts/3/textus-2.png\" alt=\"\" width=\"9036\" height=\"5083\" sizes=\"(max-width: 768px) 100vw, 768px\" srcset=\"https://antonio-vigilante.github.io/textus/media/posts/3/responsive/textus-2-xs.png 300w ,https://antonio-vigilante.github.io/textus/media/posts/3/responsive/textus-2-sm.png 480w ,https://antonio-vigilante.github.io/textus/media/posts/3/responsive/textus-2-md.png 768w\"></figure>\n<p><em>Textus</em> è una manuale pratico di didattica digitale della filosofia scritto da Antonio Vigilante. Nasce nell'ambito delle attività della cattedra di <em>Esercitazioni di didattica della filosofia</em> presso l'Università di Siena ed è rilasciato con licenza Creative Commons BY-SA 4.0.</p>",
+            "author": {
+                "name": "Antonio Vigilante"
+            },
+            "tags": [
+            ],
+            "date_published": "2026-03-15T19:00:25+01:00",
+            "date_modified": "2026-03-15T19:16:27+01:00"
+        }
+    ]
+}

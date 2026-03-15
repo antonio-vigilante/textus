@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
+    <title>Textus</title>
+    <link href="https://antonio-vigilante.github.io/textus/feed.xml" rel="self" />
+    <link href="https://antonio-vigilante.github.io/textus" />
+    <updated>2026-03-15T19:16:27+01:00</updated>
+    <author>
+        <name>Antonio Vigilante</name>
+    </author>
+    <id>https://antonio-vigilante.github.io/textus</id>
+
+    <entry>
+        <title>Manuale pratico di didattica digitale della filosofia</title>
+        <author>
+            <name>Antonio Vigilante</name>
+        </author>
+        <link href="https://antonio-vigilante.github.io/textus/_cover-2.html"/>
+        <id>https://antonio-vigilante.github.io/textus/_cover-2.html</id>
+
+        <updated>2026-03-15T19:00:25+01:00</updated>
+            <summary type="html">
+                <![CDATA[
+                    Textus è una manuale pratico di didattica digitale della filosofia scritto da Antonio Vigilante. Nasce nell'ambito delle attività della cattedra di Esercitazioni di didattica della&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <figure class="post__image"><img loading="lazy"  src="https://antonio-vigilante.github.io/textus/media/posts/3/textus-2.png" alt="" width="9036" height="5083" sizes="(max-width: 768px) 100vw, 768px" srcset="https://antonio-vigilante.github.io/textus/media/posts/3/responsive/textus-2-xs.png 300w ,https://antonio-vigilante.github.io/textus/media/posts/3/responsive/textus-2-sm.png 480w ,https://antonio-vigilante.github.io/textus/media/posts/3/responsive/textus-2-md.png 768w"></figure>
+<p><em>Textus</em> è una manuale pratico di didattica digitale della filosofia scritto da Antonio Vigilante. Nasce nell'ambito delle attività della cattedra di <em>Esercitazioni di didattica della filosofia</em> presso l'Università di Siena ed è rilasciato con licenza Creative Commons BY-SA 4.0.</p>
+            ]]>
+        </content>
+    </entry>
+</feed>
